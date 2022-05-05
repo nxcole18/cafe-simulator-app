@@ -1,0 +1,25 @@
+{
+    "name": "your order",
+    "order": [
+        {
+            "prepare time": 4,
+            "name": "Latte",
+            "description": "Espresso with steamed milk."
+        },
+        {
+            "prepare time": 3,
+            "name": "Mocha",
+            "description": "Espresso with chocolate and steamed milk."
+        },
+        {
+            "prepare time": 0,
+            "name": "Cheesecake",
+            "description": "Cheesecake with strawberry toppings."
+        },
+        {
+            "prepare time": 0,
+            "name": "Macaron",
+            "description": "Lavender-flavoured macaron."
+        }
+    ]
+}

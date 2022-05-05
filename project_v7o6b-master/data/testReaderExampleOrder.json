@@ -1,0 +1,8 @@
+{
+    "name": "Test order",
+    "order": [{
+        "prepare time": 3,
+        "name": "A",
+        "description": "test product"
+    }]
+}

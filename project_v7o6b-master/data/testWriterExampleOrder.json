@@ -1,0 +1,15 @@
+{
+    "name": "Test order",
+    "order": [
+        {
+            "prepare time": 3,
+            "name": "A",
+            "description": "Example product A"
+        },
+        {
+            "prepare time": 3,
+            "name": "B",
+            "description": "Example product B"
+        }
+    ]
+}
